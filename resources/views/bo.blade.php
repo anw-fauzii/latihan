@@ -10,5 +10,7 @@
     <h1>Data Mahasiswa</h1>
     <p> Nama : Anwar Fauzi </p>
     <p> NIM : 1606028 </p>
+    <p> Nama : Bardan Salam </p>
+    <p> NIM : 1606034 </p>
 </body>
 </html>
