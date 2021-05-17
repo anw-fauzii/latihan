@@ -7,7 +7,8 @@
     <title>Dosen</title>
 </head>
 <body>
-    Data Dosen kakaka: jajajag
+    <h3> data dosen </h3>
+    <p> Data Dosen kakaka: jajajag </p>
     Data Dosen kakaka: jasasas
     Data Dosen kakaka: 121212
 </body>
