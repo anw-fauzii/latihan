@@ -7,6 +7,8 @@
     <title>Dosen</title>
 </head>
 <body>
-    Data Dosen kakaka: jajajag
+    <h4> data dosen </h4>
+    <p> Data Dosen kakaka: jajajag </p>
+    <p> Data Dosen kakaka: hahahahah </p>
 </body>
 </html>
