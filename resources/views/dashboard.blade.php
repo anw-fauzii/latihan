@@ -1,15 +1,23 @@
-<x-app-layout>
-    <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Dashboard') }}
-        </h2>
-    </x-slot>
+@extends('layouts.app')
 
-    <div class="py-12">
-        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-            <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
-                <x-jet-welcome />
-            </div>
-        </div>
+@section('title')
+    <title>Manajemen Barang</title>
+@endsection
+
+@section('content')
+<div class="app-main__inner">
+    <div class="app-page-title">
+        <div class="page-title-wrapper">
+            <div class="page-title-heading">
+                <div class="page-title-icon">
+                    <i class="pe-7s-home icon-gradient bg-mean-fruit"></i>
+                </div>
+                <div>Dashboard
+                    <div class="page-title-subheading">This is an example dashboard created using build-in elements and components.
+                    </div>
+                </div>
+            </div>  
+        </div> 
     </div>
-</x-app-layout>
+</div>      
+@endsection
